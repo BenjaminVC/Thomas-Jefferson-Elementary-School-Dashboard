@@ -35,8 +35,6 @@ export default function TeacherDirectory() {
     fetchData();
   }, []);
 
-  
-
   // useMemo to memoize the sorted teachers
   const sortedTeachers = useMemo(() => {
     const sorted = [...teachersData];
