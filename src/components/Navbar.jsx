@@ -21,7 +21,7 @@ function Navbar() {
       </Link>
 
       <Link to="/">
-        <span className="navbar-title">Thomas Jefferson Elementary School</span>
+        <span className="navbar-title">Thomas Jefferson Elementary</span>
       </Link>
 
       <ul className="navbar-links">
